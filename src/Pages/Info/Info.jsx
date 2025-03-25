@@ -5,7 +5,7 @@ import Info1 from "./Info1/Info1"
 export default function Info() {
 
 
-  const {api: InfoPage} = UseFetchHook("/db.json")
+  const {api: InfoPage} = UseFetchHook("https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/db/db.json?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYi9kYi5qc29uIiwiaWF0IjoxNzQyODkyMjA4LCJleHAiOjE3NzQ0MjgyMDh9.R3Ut2knI1WeZfSsXh9xtCpceeG3nnOm6srkhwyob1SM")
 
 
   return (

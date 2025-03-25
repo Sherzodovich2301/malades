@@ -4,26 +4,26 @@
             "id": 1,
             "title": "Our Team",
             "title2": "bu sahifada siz bizning jamoamiz va ularning a'zolari bilan tanishishingiz mumkin bo'ladi",
-            "image": "/src/Components/Img/pexels-fauxels-3184423.jpg",
+            "image": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/pexels-fauxels-3184423.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovcGV4ZWxzLWZhdXhlbHMtMzE4NDQyMy5qcGciLCJpYXQiOjE3NDI4ODkyMzUsImV4cCI6MTc3NDQyNTIzNX0.0goNiEBd4b5WyzkGHkuN7P6ziItWz_2TS6xh-LaLhCU",
             "Team1": [
                 {
                     "id": 1,
-                    "image1": "/src/Components/Img/zafaraka.jpg",
+                    "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/zafaraka.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovemFmYXJha2EuanBnIiwiaWF0IjoxNzQyODg5NTkwLCJleHAiOjE3NzQ0MjU1OTB9.ofBzmvsTibJfT1cRNjM9sYokFfnKBGGGvj2YoxOiPEM",
                     "title1": "Zafar Uralov - Iqtidor IT Academy direktori IT sohasining rivojlanishiga katta hissa qo‘shadigan va yosh avlodga zamonaviy bilim berishga intiladigan yetakchi hisoblanadi."
                 },
                 {
                     "id": 2,
-                    "image1": "/src/Components/Img/Abdufattox aka.jpg",
+                    "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/Abdufattox%20aka.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovQWJkdWZhdHRveCBha2EuanBnIiwiaWF0IjoxNzQyODg5MDUxLCJleHAiOjE3NzQ0MjUwNTF9.XxtR4e-7X2F_gaV80cfmvK863B6yMLxDcIF7DL8OM7s",
                     "title1": "Abdufattox Juraev - SMM mentori – biznes yoki shaxslar uchun samarali ijtimoiy media strategiyalarini yaratishga yordam beradigan mutaxassis bo‘lib, ularning onlayn ishtirokini"
                 },
                 {
                     "id": 3,
-                    "image1": "/src/Components/Img/bekmuhammadaka.jpg",
+                    "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/bekmuhammadaka.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovYmVrbXVoYW1tYWRha2EuanBnIiwiaWF0IjoxNzQyODg5MTE3LCJleHAiOjE3NzQ0MjUxMTd9.5KO27zlnHY0YrlkxFoY4uIxcrhcQY8_3v57caw6EGXA",
                     "title1": "Bekmuhammad Mamadiyev - Tajribali back-end dasturchi va ilhomlantiruvchi mentor, server texnologiyalari va tizimlar bo‘yicha chuqur bilim va tajribaga ega bo‘lib, talabalar va hamkasblari tomonidan hurmat qilinadi."
                 },
                 {
                     "id": 4,
-                    "image1": "/src/Components/Img/javohiraka.jpg",
+                    "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/javohiraka.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovamF2b2hpcmFrYS5qcGciLCJpYXQiOjE3NDI4ODkxNTEsImV4cCI6MTc3NDQyNTE1MX0.Zrz5ZrjZZxt7d0E2heyiXSynViaQhIWpWuqBC_ApFYU",
                     "title1": "Javohir Yusupov - Tajribali front-end dasturchi va ilhomlantiruvchi mentor, zamonaviy veb-texnologiyalar bo‘yicha chuqur bilim va tajribaga ega bo‘lib, talabalar va hamkasblari orasida hurmatga sazovor."
                 }
             ]
@@ -32,7 +32,7 @@
             "id": 2,
             "title": "Exchange Rates",
             "title2": "valyuta kurslari haqidagi ma'lumotlar sahifasi",
-            "image": "/src/Components/Img/bitcoin3.jpg",
+            "image": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/bitcoin3.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovYml0Y29pbjMuanBnIiwiaWF0IjoxNzQyODg5MTg4LCJleHAiOjE3NzQ0MjUxODh9.CkvGSDK8l_ogJ2-lhnIV0QXnLV0jopf6wQEqVN97uEY",
             "Team3": [
                 {
                     "title1": "This Page Is Not Available Yet"
@@ -43,36 +43,36 @@
             "id": 3,
             "title": "National Banks",
             "title2": "milliy banklarimiz va ularga tegishli bolgan sahifa",
-            "image": "/src/Components/Img/bank3.jpg",
+            "image": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/bank3.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovYmFuazMuanBnIiwiaWF0IjoxNzQyODg5Mjc3LCJleHAiOjE3NzQ0MjUyNzd9.9aGec-NfKUBIEWgIPjax5s39IRV6dYMXr3h7RrqV6Aw",
             "Team2": [
                 
                 {
-                    "image1": "/src/Components/Img/nbu logo.webp",
+                    "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/nbu%20logo.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovbmJ1IGxvZ28ud2VicCIsImlhdCI6MTc0Mjg4OTM0MywiZXhwIjoxNzc0NDI1MzQzfQ.gCHb7p1LD5JUuDEOCZdHcgobOwxLO7lYukXi9dzM-J4",
                     "title1": "NBU",
                     "title2": "O‘zbekiston Respublikasi Tashqi iqtisodiy faoliyat milliy banki mamlakatimiz birinchi Prezidenti I.Karimovning 1991 yil sentabrdagi Farmoni bilan tashkil etilgan.O‘zbеkiston Rеspublikasi Prеzidеntining “O‘zbеkiston Rеspublikasi Tashqi iqtisodiy faoliyat milliy banki” unitar deb elon qildi."
                 },
                 {
-                    "image1": "/src/Components/Img/sqb logo.jpg",
+                    "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/sqb%20logo.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovc3FiIGxvZ28uanBnIiwiaWF0IjoxNzQyODg5Mzc0LCJleHAiOjE3NzQ0MjUzNzR9.kJiCn78eqvRU79kuZQI2EsbuXkfIb0_I8CEUPdlTqr8",
                     "title1": "SQB",
                     "title2": "1955-yilda kapital qurilishni moliyalashtirishning yangi qoidalari va qurilish b oʻyicha pudrat shartnomalarining qoidalari tasdiqlandi. Bank ishlab chiqarish quvvatlarini va asosiy fondlarni ishga tushirish boʻyicha davlat rejalarining bajarilishi ustidan nazoratni kuchaytiradi."
                 },
                 {
-                    "image1": "/src/Components/Img/ipoteka logo.jpg",
+                    "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/ipoteka%20logo.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovaXBvdGVrYSBsb2dvLmpwZyIsImlhdCI6MTc0Mjg4OTQyNCwiZXhwIjoxNzc0NDI1NDI0fQ.r9NiO8KrKwQLjZhXCfXtYhXY3FiZ9GS532T9xiHc3xU",
                     "title1": "OTP",
                     "title2": "Ipoteka bank – Oʻzbekistondagi xorijiy investor ulushi ishtirokidagi universal bankdir. Ipoteka-bank Oʻzbekiston bank tizimida jami aktivlari boʻyicha 7.1 foiz ulush bilan 5-pozitsiyada joylashgan.Ipoteka-bank ipoteka kreditlari berish va uy-joy qurilishini moliyalash boʻyicha tajribaga ega."
                 },
                 {
-                    "image1": "/src/Components/Img/hamkorlogo.webp",
+                    "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/hamkorlogo.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovaGFta29ybG9nby53ZWJwIiwiaWF0IjoxNzQyODg5NDc2LCJleHAiOjE3NzQ0MjU0NzZ9.Fdz9zIzJzZ7ZcBX_aidqObL2-UA_nhETa4RtWopatZw",
                     "title1": "Hamkor Bank",
                     "title2": "Hamkorbank ATB – xorijiy kapital ishtirokidagi aksiyadorlik-tijorat banki Hamkorbank OAJ boʻlib, Oʻzbekistondagi tijorat bankidir. Bank Oʻzbekiston Markaziy banki tomonidan 1991-yil 31-avgustda berilgan 64-sonli litsenziyaga ega."
                 },
                 {
-                    "image1": "/src/Components/Img/turon.webp",
+                    "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/turon.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovdHVyb24ud2VicCIsImlhdCI6MTc0Mjg4OTUwMywiZXhwIjoxNzc0NDI1NTAzfQ.uXVbGGEtJ0yOOiNiFrWF4i22bSUVEYPBebkpeREKIMM",
                     "title1": "Turon Bank",
                     "title2": "Turonbank - Oʻzbekistondagi yirik aksiyadorlik-tijorat banki. 1990-yil 6-oktabrda aksiyadorlik tijorat birlashtiruv banki tarzida tashkil etilgan. 1993-yildan ochiq aksiyadorlik jamiyati. Boshqaruvi Toshkent shahrida, Qishloq va suv xoʻjaligi vazirligi tashkilotlari, kichik va oʻrta biznes subʼyektlarga xizmatlari koʻrsatadi"
                 },
                 {
-                    "image1": "/src/Components/Img/anorbank.png",
+                    "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/anorbank.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovYW5vcmJhbmsucG5nIiwiaWF0IjoxNzQyODg5NTM1LCJleHAiOjE3NzQ0MjU1MzV9.XInoL0iT2K4Sr3i6_iMYIt5eYyl0OO-JsOQxksnlJK0",
                     "title1": "Anor Bank",
                     "title2": "ANOR BANK AJ - birinchimilliy tijorat raqamli bank. 2020 yil Sentyabr oyida tashkil etilgan Xizmatlar onlayn tarzda (veb-sayt, mobil ilova) taqdim etiladi Anorbank ilovasi Android va iOS platformada joylashgan Yarim milliondanortiq odam Anorbank ilovasini yuklab oldi."
                 }
@@ -82,60 +82,60 @@
     "Team": [
         {
             "id": 1,
-            "image1": "/src/Components/Img/zafaraka.jpg",
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/zafaraka.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovemFmYXJha2EuanBnIiwiaWF0IjoxNzQyODg5NTkwLCJleHAiOjE3NzQ0MjU1OTB9.ofBzmvsTibJfT1cRNjM9sYokFfnKBGGGvj2YoxOiPEM",
             "title1": "Zafar Uralov - Iqtidor IT Academy direktori IT sohasining rivojlanishiga katta hissa qo‘shadigan va yosh avlodga zamonaviy bilim berishga intiladigan yetakchi hisoblanadi."
         },
         {
             "id": 2,
-            "image1": "/src/Components/Img/Abdufattox aka.jpg",
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/Abdufattox%20aka.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovQWJkdWZhdHRveCBha2EuanBnIiwiaWF0IjoxNzQyODg5MDUxLCJleHAiOjE3NzQ0MjUwNTF9.XxtR4e-7X2F_gaV80cfmvK863B6yMLxDcIF7DL8OM7s",
             "title1": "Abdufattox Juraev - SMM mentori – biznes yoki shaxslar uchun samarali ijtimoiy media strategiyalarini yaratishga yordam beradigan mutaxassis bo‘lib, ularning onlayn ishtirokini"
         },
         {
             "id": 3,
-            "image1": "/src/Components/Img/bekmuhammadaka.jpg",
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/bekmuhammadaka.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovYmVrbXVoYW1tYWRha2EuanBnIiwiaWF0IjoxNzQyODg5MTE3LCJleHAiOjE3NzQ0MjUxMTd9.5KO27zlnHY0YrlkxFoY4uIxcrhcQY8_3v57caw6EGXA",
             "title1": "Bekmuhammad Mamadiyev - Tajribali back-end dasturchi va ilhomlantiruvchi mentor, server texnologiyalari va tizimlar bo‘yicha chuqur bilim va tajribaga ega bo‘lib, talabalar va hamkasblari tomonidan hurmat qilinadi."
         },
         {
             "id": 4,
-            "image1": "/src/Components/Img/javohiraka.jpg",
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/javohiraka.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovamF2b2hpcmFrYS5qcGciLCJpYXQiOjE3NDI4ODkxNTEsImV4cCI6MTc3NDQyNTE1MX0.Zrz5ZrjZZxt7d0E2heyiXSynViaQhIWpWuqBC_ApFYU",
             "title1": "Javohir Yusupov - Tajribali front-end dasturchi va ilhomlantiruvchi mentor, zamonaviy veb-texnologiyalar bo‘yicha chuqur bilim va tajribaga ega bo‘lib, talabalar va hamkasblari orasida hurmatga sazovor."
         }
     ],
     "kelajakHamkor": [
         {
-            "img": "./src/Components/Img/amazon.jpg"
+            "img": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/amazon.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovYW1hem9uLmpwZyIsImlhdCI6MTc0Mjg4OTc1NSwiZXhwIjoxNzc0NDI1NzU1fQ.IhqgwU-Ua-IH9jVISVlAtmO9ojiEo7gDEv9OqS9vIOE"
         },
         {
-            "img": "./src/Components/Img/apple.webp"
+            "img": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/apple.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovYXBwbGUud2VicCIsImlhdCI6MTc0Mjg4OTgyNCwiZXhwIjoxNzc0NDI1ODI0fQ.J5U4rPZ3EpyBEB1Ar0ss3cpPf3RCn3cQaw_Z4kjIeOM"
         },
         {
-            "img": "./src/Components/Img/google.jpg"
+            "img": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/google.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovZ29vZ2xlLmpwZyIsImlhdCI6MTc0Mjg4OTg1OCwiZXhwIjoxNzc0NDI1ODU4fQ.whFcZyrVWx3cv2fvQSiQDaPBV3LCcnAIAn561x7PyY4"
         },
         {
-            "img": "./src/Components/Img/twitter.webp"
+            "img": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/twitter.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovdHdpdHRlci53ZWJwIiwiaWF0IjoxNzQyODg5ODgwLCJleHAiOjE3NzQ0MjU4ODB9.Imnx-V3mtDd4cqEvuqpqWA1Xk6VG1BuOOumfKGHuNuE"
         },
         {
-            "img": "./src/Components/Img/facebook.webp"
+            "img": ".https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/facebook.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovZmFjZWJvb2sud2VicCIsImlhdCI6MTc0Mjg4OTkxMiwiZXhwIjoxNzc0NDI1OTEyfQ.Tb8sw8nQyRlNN9W0OlNItXgjx7BhKbi0UBfzWDFlgT0"
         }
     ],
     "BolajakJamoa": [
         {
-            "image2": "./src/Components/Img/shamsiddin bro1.jpg",
+            "image2": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/shamsiddin%20bro1.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovc2hhbXNpZGRpbiBicm8xLmpwZyIsImlhdCI6MTc0Mjg4OTk1NCwiZXhwIjoxNzc0NDI1OTU0fQ.CCSeIw4DODx084DyZxHb3fjv8Z-f3D-SCdiqn2seHMA",
             "title1": "Shamsiddin Ro'ziboyev",
             "title2": "Iqtidor academy ning front-end kursida o'qib hozirda horijiy kampaniya ya'ni 'Amazon' bilan birgalikda ish yuritmoqda"
         },
         {
-            "image2": "./src/Components/Img/shohjahon bro1.jpg",
+            "image2": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/shohjahon%20bro1.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovc2hvaGphaG9uIGJybzEuanBnIiwiaWF0IjoxNzQyODg5OTgyLCJleHAiOjE3NzQ0MjU5ODJ9.apK1_6Qnut1G2bgntTGYB9y-6wQdjHOtrB7NQruU0O8",
             "title1": "Shohjahon Amonov",
             "title2": "Ijodkorlik va texnologiyaga ishtiyoqi baland bo‘lgan iqtidorli o‘yin dasturchisi. Va eksklyusiv o'yinlar yaratuvchisi"
         },
         {
-            "image2": "./src/Components/Img/muulon bro1.jpg",
+            "image2": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/muulon%20bro1.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovbXV1bG9uIGJybzEuanBnIiwiaWF0IjoxNzQyODkwMDQzLCJleHAiOjE3NzQ0MjYwNDN9.wvORcglLvy-JVvMXamXzdlhmyFhOoqkNwunAXcB9Ra4",
             "title1": "Mavlonbek Ibragimov",
             "title2": "Iqtidor academy ning front-end kursida tahsil olib hozirgi kunda UIC group dasturchilari bilan ishlamoqda"
         },
         {
-            "image2": "./src/Components/Img/aziz bro1.jpg",
+            "image2": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/aziz%20bro1.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovYXppeiBicm8xLmpwZyIsImlhdCI6MTc0Mjg5MDA3NywiZXhwIjoxNzc0NDI2MDc3fQ.q0HC35QhxX97j1FGzPv57ocbL4H8y8zwf8Fe-HuE--s",
             "title1": "Azizbek Qayumov",
             "title2": "Zamonaviy veb-texnologiyalarda chuqur bilimga ega bo‘lgan, vizual jihatdan jozibador va yuqori funksionallikka ega foydalanuvchi"
         }
@@ -148,80 +148,80 @@
     "TortinchiPage": [
         {
             "id": 1,
-            "image1": "/src/Components/Img/US png.png"
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/US%20png.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovVVMgcG5nLnBuZyIsImlhdCI6MTc0Mjg5MDM1MiwiZXhwIjoxNzc0NDI2MzUyfQ.l1ieGkfn1QNbVSPjR-KIjG2dkl2Fu2gsYSKoG6X7vQw"
         },
         {
             "id": 2,
-            "image1": "/src/Components/Img/Paylov PNG.png"
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/Paylov%20PNG.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovUGF5bG92IFBORy5wbmciLCJpYXQiOjE3NDI4OTA0MDksImV4cCI6MTc3NDQyNjQwOX0.n7vRRCnXyED4sQDFREhQWNS1wh8Vf7Shc2gQPWCrvqg"
         },
         {
             "id": 3,
-            "image1": "/src/Components/Img/imkon Png.png"
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/imkon%20Png.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovaW1rb24gUG5nLnBuZyIsImlhdCI6MTc0Mjg5MDQ1MSwiZXhwIjoxNzc0NDI2NDUxfQ.5IpfPM9Dh71-kVDlkAG2_2apAQqWhmu7hCql8fquetU"
         },
         {
             "id": 4,
-            "image1": "/src/Components/Img/SQB PNG.png"
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/SQB%20PNG.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovU1FCIFBORy5wbmciLCJpYXQiOjE3NDI4OTA0NzYsImV4cCI6MTc3NDQyNjQ3Nn0.UI314TwvxUAken9iPdf9PG0_Efaz9ON8yf9P_sQ-NEg"
         },
         {
             "id": 5,
-            "image1": "/src/Components/Img/Asakabank PNG.svg"
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/Asakabank%20PNG.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovQXNha2FiYW5rIFBORy5zdmciLCJpYXQiOjE3NDI4OTA2NDMsImV4cCI6MTc3NDQyNjY0M30.I6i9YlS_t9L2fwNQiA9mHkSlUKnU2jyIX3A79Y302mI"
         },
         {
             "id": 6,
-            "image1": "/src/Components/Img/commeta PNG.svg"
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/commeta%20PNG.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovY29tbWV0YSBQTkcuc3ZnIiwiaWF0IjoxNzQyODkwNjY5LCJleHAiOjE3NzQ0MjY2Njl9.iUWccPBzCznA_agbbozCo5bT0VSncQsAz_rwKFM3Ekc"
         },
         {
             "id": 7,
-            "image1": "/src/Components/Img/IT_park PNG.svg"
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/IT_park%20PNG.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovSVRfcGFyayBQTkcuc3ZnIiwiaWF0IjoxNzQyODkwNjk0LCJleHAiOjE3NzQ0MjY2OTR9.fB7ALBYpVIdWzunRYhBbf_LmWvnER58PC0aZJUi1jhY"
         },
         {
             "id": 8,
-            "image1": "/src/Components/Img/PM.svg"
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/PM.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovUE0uc3ZnIiwiaWF0IjoxNzQyODkwNzIzLCJleHAiOjE3NzQ0MjY3MjN9.yVV9Mwxocoh3BAvj6enZup8TFZQNm5KN47IsJq7DD_8"
         },
         {
             "id": 9,
-            "image1": "/src/Components/Img/SELLO PNG.svg"
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/SELLO%20PNG%20(1).svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovU0VMTE8gUE5HICgxKS5zdmciLCJpYXQiOjE3NDI4OTA3NjgsImV4cCI6MTc3NDQyNjc2OH0.ousg-TUm_HgVzcCA5-h5kww823oqh5TvcxWQ_Ns4iYU"
         },
         {
             "id": 10,
-            "image1": "/src/Components/Img/Uzcard PNG.svg"
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/Uzcard%20PNG.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovVXpjYXJkIFBORy5zdmciLCJpYXQiOjE3NDI4OTA4MDUsImV4cCI6MTc3NDQyNjgwNX0.BD0Vhp48BO-dHYgYFsC3ku1vfbRu_ro8IZUYvL8GKKQ"
         }
     ],
     "BeshinchiPage": [
         {
             "title": "American Express Platinum Card",
             "Ptitle": "American Express Company yoki Amex — toʻlov kartalariga  ixtisoslashgan Amerika bank xolding kompaniyasi va koʻp millatli moliyaviy xizmatlar korporatsiyasi. Uning shtab-kvartirasi Quyi Manxettenning Battery Park Siti mahallasida American Express minorasi sifatida ham tanilgan Vesey ko'chasi 200-da joylashgan. Amex Xitoy UnionPay, Visa va Mastercarddan keyin xaridlar hajmi bo'yicha dunyo bo'ylab to'rtinchi yirik karta tarmog'idir.",
-            "image": "/src/Components/Img/american-express-platinum-charge-card-india.jpg"
+            "image": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/american-express-platinum-charge-card-india.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovYW1lcmljYW4tZXhwcmVzcy1wbGF0aW51bS1jaGFyZ2UtY2FyZC1pbmRpYS5qcGciLCJpYXQiOjE3NDI4OTA4NjksImV4cCI6MTc3NDQyNjg2OX0.bI04BHwVRd0aPrDHsGsY5gdA7Ev04lOQNd37yKeTaRc"
         }
     ],
     "YettinchiPage": [
         {
             "id": 1,
-            "image": "/src/Components/Img/1-bank.jpg",
+            "image": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/1-bank.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovMS1iYW5rLmpwZyIsImlhdCI6MTc0Mjg5MDg5NywiZXhwIjoxNzc0NDI2ODk3fQ.hlIOlPqnax9_v8c2a9I209m3aTsk-_9Pc5YxFY9QPp4",
             "title": "1 – Industrial & Commercial Bank of China",
             "Pititle": "O‘zbekchasiga «Xitoy sanoat-tijorat banki» nomli bu  ulkan moliya muassasasi o‘zining 4,009 trln dollarlik aktivlari bilan dunyo yetakchisi hisoblanadi. 1984 yilda davlat tomonidan asos solingan bu bank 2006 yilda ilk bor o‘z aksiyalarini sotuvga chiqargan va  48,4 mlrd aksiyalarini (umumiy 18 foiz) sotish ortidan 20 mlrd dollar ishlashga muvaffaq bo‘lgan"
         },
         {
             "id": 2,
-            "image": "/src/Components/Img/1-bank.jpg",
+            "image": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/1-bank.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovMS1iYW5rLmpwZyIsImlhdCI6MTc0Mjg5MDg5NywiZXhwIjoxNzc0NDI2ODk3fQ.hlIOlPqnax9_v8c2a9I209m3aTsk-_9Pc5YxFY9QPp4",
             "title": "2 – Industrial & Commercial Bank of China",
             "Pititle": "O‘zbekchasiga «Xitoy sanoat-tijorat banki» nomli bu  ulkan moliya muassasasi o‘zining 4,009 trln dollarlik aktivlari bilan dunyo yetakchisi hisoblanadi. 1984 yilda davlat tomonidan asos solingan bu bank 2006 yilda ilk bor o‘z aksiyalarini sotuvga chiqargan va  48,4 mlrd aksiyalarini (umumiy 18 foiz) sotish ortidan 20 mlrd dollar ishlashga muvaffaq bo‘lgan"
         },
         {
             "id": 3,
-            "image": "/src/Components/Img/3-bank.jpg",
+            "image": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/3-bank.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovMy1iYW5rLmpwZyIsImlhdCI6MTc0Mjg5MDk1NSwiZXhwIjoxNzc0NDI2OTU1fQ.jiig76wzkr78tIjWhlQETfbax6H-Y6Y-PmzP45r-bDA",
             "title": "3 – Industrial & Commercial Bank of China",
             "Pititle": "O‘zbekchasiga «Xitoy sanoat-tijorat banki» nomli bu  ulkan moliya muassasasi o‘zining 4,009 trln dollarlik aktivlari bilan dunyo yetakchisi hisoblanadi. 1984 yilda davlat tomonidan asos solingan bu bank 2006 yilda ilk bor o‘z aksiyalarini sotuvga chiqargan va  48,4 mlrd aksiyalarini (umumiy 18 foiz) sotish ortidan 20 mlrd dollar ishlashga muvaffaq bo‘lgan"
         },
         {
             "id": 4,
-            "image": "/src/Components/Img/4-bank.jpg",
+            "image": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/4-bank.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovNC1iYW5rLmpwZyIsImlhdCI6MTc0Mjg5MDk5OCwiZXhwIjoxNzc0NDI2OTk4fQ.ym4kK6sfRIBx5NNT1qzSqSRDhn_xOi9fQsjccZSy5jo",
             "title": "4 – Industrial & Commercial Bank of China",
             "Pititle": "O‘zbekchasiga «Xitoy sanoat-tijorat banki» nomli bu  ulkan moliya muassasasi o‘zining 4,009 trln dollarlik aktivlari bilan dunyo yetakchisi hisoblanadi. 1984 yilda davlat tomonidan asos solingan bu bank 2006 yilda ilk bor o‘z aksiyalarini sotuvga chiqargan va  48,4 mlrd aksiyalarini (umumiy 18 foiz) sotish ortidan 20 mlrd dollar ishlashga muvaffaq bo‘lgan"
         },
         {
             "id": 5,
-            "image": "/src/Components/Img/5-bank.jpg",
+            "image": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/5-bank.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovNS1iYW5rLmpwZyIsImlhdCI6MTc0Mjg5MTAzMSwiZXhwIjoxNzc0NDI3MDMxfQ.Q-Kgh2IzzvDpRNiloymKj6F3xi2GcIOvB_dV5vxAVrQ",
             "title": "5 – Industrial & Commercial Bank of China",
             "Pititle": "O‘zbekchasiga «Xitoy sanoat-tijorat banki» nomli bu  ulkan moliya muassasasi o‘zining 4,009 trln dollarlik aktivlari bilan dunyo yetakchisi hisoblanadi. 1984 yilda davlat tomonidan asos solingan bu bank 2006 yilda ilk bor o‘z aksiyalarini sotuvga chiqargan va  48,4 mlrd aksiyalarini (umumiy 18 foiz) sotish ortidan 20 mlrd dollar ishlashga muvaffaq bo‘lgan"
         }
@@ -229,97 +229,97 @@
     "batafsil": [
         {
             "id": 1,
-            "img": "/src/Components/Img/tengeBank.jpg",
+            "img": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/tengeBank.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovdGVuZ2VCYW5rLmpwZyIsImlhdCI6MTc0Mjg5MTA2OCwiZXhwIjoxNzc0NDI3MDY4fQ.MBm--lOYCTANeAmaTjY9uOVxqfInkwxRmiHEtAkhp0c",
             "title1": "Buxgalteriya hisobini yuritish bo’limi katta menejeri"
         },
         {
             "id": 2,
-            "img": "/src/Components/Img/UniversalB.jpg",
+            "img": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/UniversalB.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovVW5pdmVyc2FsQi5qcGciLCJpYXQiOjE3NDI4OTEyMDcsImV4cCI6MTc3NDQyNzIwN30.tez2b_lro2iE-cZr2wp0BmElvXk2PaQ9sNdsAEz6sAw",
             "title1": "Java dastur ishlab chiquvchi"
         },
         {
             "id": 3,
-            "img": "/src/Components/Img/hamkorB.jpg",
+            "img": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/hamkorB.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovaGFta29yQi5qcGciLCJpYXQiOjE3NDI4OTEyMzEsImV4cCI6MTc3NDQyNzIzMX0.xzd7UsO8tqsIT_SWCGdtbAjF5TRyeJm2DnnwSkAbNvs",
             "title1": "Huquqshunos lavozimi uchun"
         },
         {
             "id": 4,
-            "img": "/src/Components/Img/ip bank.jpeg",
+            "img": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/ip%20bank.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovaXAgYmFuay5qcGVnIiwiaWF0IjoxNzQyODkxMjg4LCJleHAiOjE3NzQ0MjcyODh9.TB6B-V4L5EWdCYR93eBxkY2Mz8-TRPc1OHC7JRJ2yfk",
             "title1": "Loyihalarni boshqarish boshqarmasi boshlig'i"
         },
         {
             "id": 5,
-            "img": "/src/Components/Img/anor.jpg",
+            "img": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/anor.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovYW5vci5qcGciLCJpYXQiOjE3NDI4OTEzMzAsImV4cCI6MTc3NDQyNzMzMH0.dutQyBscVR7jXiiEA1ufRFSiIqAgY5nbe2pwAvCbbxI",
             "title1": "Masofaviy qarz undurish bo'yicha mutaxassis"
         },
         {
             "id": 6,
-            "img": "/src/Components/Img/aloqaB.webp",
+            "img": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/aloqaB.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovYWxvcWFCLndlYnAiLCJpYXQiOjE3NDI4OTEzNTIsImV4cCI6MTc3NDQyNzM1Mn0.Rbc44YiZqAlO0h3K0ANEPiuXhsG-OhbFdhUR43Kce9Y",
             "title1": "Kontant markazi operatori"
         }
     ],
     "aboutPage2": [
         {
             "id": 1,
-            "image1": "/src/Components/Img/Frame 9.png"
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/Frame%209.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovRnJhbWUgOS5wbmciLCJpYXQiOjE3NDI4OTEzOTUsImV4cCI6MTc3NDQyNzM5NX0.ORF_vn1W0t-U2R67NcYBLYmPi_cK-9zqA0dGi9LVjSo"
         },
         {
             "id": 2,
-            "image1": "/src/Components/Img/Frame 10.png"
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/Frame%2010.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovRnJhbWUgMTAucG5nIiwiaWF0IjoxNzQyODkxNDE2LCJleHAiOjE3NzQ0Mjc0MTZ9.Cztec6XB9eriOMNzzkM6bz0E9kC6rQ_YCNfAXiK0Ssc"
         },
         {
             "id": 3,
-            "image1": "/src/Components/Img/Frame 10 (6).png"
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/Frame%2010%20(6).png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovRnJhbWUgMTAgKDYpLnBuZyIsImlhdCI6MTc0Mjg5MTQ3MSwiZXhwIjoxNzc0NDI3NDcxfQ.uxvewCZzblCK8M3XeglCxthDq6NmFce7NpGyyjZQSK0"
         },
         {
             "id": 4,
-            "image1": "/src/Components/Img/Frame 10 (5).png"
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/Frame%2010%20(5).png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovRnJhbWUgMTAgKDUpLnBuZyIsImlhdCI6MTc0Mjg5MTc2NCwiZXhwIjoxNzc0NDI3NzY0fQ.GqZSbxC8-7Tx1GJsXOuuJfQGYwvu4PZalDbudyrFurY"
         },
         {
             "id": 5,
-            "image1": "/src/Components/Img/Frame 10 (4).png"
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/Frame%2010%20(4).png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovRnJhbWUgMTAgKDQpLnBuZyIsImlhdCI6MTc0Mjg5MTc4OCwiZXhwIjoxNzc0NDI3Nzg4fQ.dyTzTM0nRMgWxKt1zeKIhB7vf9ckZwTxxl73mvmlwRA"
         },
         {
             "id": 6,
-            "image1": "/src/Components/Img/Frame 10 (3).png"
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/Frame%2010%20(3).png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovRnJhbWUgMTAgKDMpLnBuZyIsImlhdCI6MTc0Mjg5MTgwNiwiZXhwIjoxNzc0NDI3ODA2fQ.VsAKSh3k2ZNLdfOORB1PN7_1PT2esrJ5huvlW5Dfoag"
         },
         {
             "id": 7,
-            "image1": "/src/Components/Img/Frame 10 (2).png"
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/Frame%2010%20(2).png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovRnJhbWUgMTAgKDIpLnBuZyIsImlhdCI6MTc0Mjg5MTgyNiwiZXhwIjoxNzc0NDI3ODI2fQ.PXuBicpdSc07lEqkG_LdJGoS36uXCjlIZzQBQFhS5ow"
         },
         {
             "id": 8,
-            "image1": "/src/Components/Img/Frame 10 (1).png"
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/Frame%2010%20(1).png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovRnJhbWUgMTAgKDEpLnBuZyIsImlhdCI6MTc0Mjg5MTg3NiwiZXhwIjoxNzc0NDI3ODc2fQ.VJ0yD4Lkbsi7EQwT1wYCbSt-bljgCJ8EvfreQnu3rTY"
         }
     ],
     "Info": [
         {
-            "image1": "/src/Components/Img/nbu logo.webp",
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/nbu%20logo.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovbmJ1IGxvZ28ud2VicCIsImlhdCI6MTc0Mjg5MTk0MSwiZXhwIjoxNzc0NDI3OTQxfQ.d24GjXWZdmgY6REAQNm7ebLuspIa5DOC7oevr0Pw8Fo",
             "title1": "NBU",
             "title2": "O‘zbekiston Respublikasi Tashqi iqtisodiy faoliyat milliy banki mamlakatimiz birinchi Prezidenti I.Karimovning 1991 yil sentabrdagi Farmoni bilan tashkil etilgan.O‘zbеkiston Rеspublikasi Prеzidеntining “O‘zbеkiston Rеspublikasi Tashqi iqtisodiy faoliyat milliy banki” unitar deb elon qildi."
         },
         {
-            "image1": "/src/Components/Img/sqb logo.jpg",
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/sqb%20logo.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovc3FiIGxvZ28uanBnIiwiaWF0IjoxNzQyODkxOTgzLCJleHAiOjE3NzQ0Mjc5ODN9.4oJyh3KYXsPDG1oamcEW6yILDU0UMrR_7xySUhRO6_0",
             "title1": "SQB",
             "title2": "1955-yilda kapital qurilishni moliyalashtirishning yangi qoidalari va qurilish b oʻyicha pudrat shartnomalarining qoidalari tasdiqlandi. Bank ishlab chiqarish quvvatlarini va asosiy fondlarni ishga tushirish boʻyicha davlat rejalarining bajarilishi ustidan nazoratni kuchaytiradi."
         },
         {
-            "image1": "/src/Components/Img/ipoteka logo.jpg",
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/ipoteka%20logo.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovaXBvdGVrYSBsb2dvLmpwZyIsImlhdCI6MTc0Mjg5MjAwMiwiZXhwIjoxNzc0NDI4MDAyfQ.o9H0vGxT_8-UvUgUsL7ovpqGxQ8CCH9ivFihvETeCfs",
             "title1": "OTP",
             "title2": "Ipoteka bank – Oʻzbekistondagi xorijiy investor ulushi ishtirokidagi universal bankdir. Ipoteka-bank Oʻzbekiston bank tizimida jami aktivlari boʻyicha 7.1 foiz ulush bilan 5-pozitsiyada joylashgan.Ipoteka-bank ipoteka kreditlari berish va uy-joy qurilishini moliyalash boʻyicha tajribaga ega."
         },
         {
-            "image1": "/src/Components/Img/hamkorlogo.webp",
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/hamkorlogo.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovaGFta29ybG9nby53ZWJwIiwiaWF0IjoxNzQyODkyMDIxLCJleHAiOjE3NzQ0MjgwMjF9.oQ1mp5YOFt_Q54EBWwingNvjlT_cZ6ArIosOoagElqE",
             "title1": "Hamkor Bank",
             "title2": "Hamkorbank ATB – xorijiy kapital ishtirokidagi aksiyadorlik-tijorat banki Hamkorbank OAJ boʻlib, Oʻzbekistondagi tijorat bankidir. Bank Oʻzbekiston Markaziy banki tomonidan 1991-yil 31-avgustda berilgan 64-sonli litsenziyaga ega."
         },
         {
-            "image1": "/src/Components/Img/turon.webp",
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/turon.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovdHVyb24ud2VicCIsImlhdCI6MTc0Mjg5MjA0MSwiZXhwIjoxNzc0NDI4MDQxfQ.ubIsU7ekNiwXw2uSsop5pkrAUfojczt7Ylccg6_ErQc",
             "title1": "Turon Bank",
             "title2": "Turonbank - Oʻzbekistondagi yirik aksiyadorlik-tijorat banki. 1990-yil 6-oktabrda aksiyadorlik tijorat birlashtiruv banki tarzida tashkil etilgan. 1993-yildan ochiq aksiyadorlik jamiyati. Boshqaruvi Toshkent shahrida, Qishloq va suv xoʻjaligi vazirligi tashkilotlari, kichik va oʻrta biznes subʼyektlarga xizmatlari koʻrsatadi"
         },
         {
-            "image1": "/src/Components/Img/anorbank.png",
+            "image1": "https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/bexruz/anorbank.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJiZXhydXovYW5vcmJhbmsucG5nIiwiaWF0IjoxNzQyODkyMDYwLCJleHAiOjE3NzQ0MjgwNjB9.wi6GB_-ThprGf7IpeYGJmdENc5lE5BY0EsaHRNmx45c",
             "title1": "Anor Bank",
             "title2": "ANOR BANK AJ - birinchimilliy tijorat raqamli bank. 2020 yil Sentyabr oyida tashkil etilgan Xizmatlar onlayn tarzda (veb-sayt, mobil ilova) taqdim etiladi Anorbank ilovasi Android va iOS platformada joylashgan Yarim milliondanortiq odam Anorbank ilovasini yuklab oldi."
         }

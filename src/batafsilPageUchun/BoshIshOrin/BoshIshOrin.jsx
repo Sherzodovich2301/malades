@@ -6,7 +6,7 @@ import { UseFetchHook } from "../../Hook/UseFetchHook"
 export default function BoshIshOrin() {
 
 
-    const {api: BushIsh} = UseFetchHook("/db.json")
+    const {api: BushIsh} = UseFetchHook("https://sgjksnpjllcugasriejo.supabase.co/storage/v1/object/sign/db/db.json?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJkYi9kYi5qc29uIiwiaWF0IjoxNzQyODkyMjA4LCJleHAiOjE3NzQ0MjgyMDh9.R3Ut2knI1WeZfSsXh9xtCpceeG3nnOm6srkhwyob1SM")
 
 
   return (
