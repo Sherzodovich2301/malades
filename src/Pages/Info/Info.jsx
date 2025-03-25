@@ -12,7 +12,7 @@ export default function Info() {
     <div>
       <Info1/>
       <div className="bekor pt-[150px] mb-[190px]">
-        <p className="text-[26px] mb-[40px] text-black font-[500] text-center dark:text-white">O'zbekistonning milliy banklari va ular haqida malumotlar</p>
+        <p className="text-[26px] mb-[40px] text-black font-[500] text-center dark:text-white">O&apos;zbekistonning milliy banklari va ular haqida malumotlar</p>
         <div className="behruz:grid-cols-3 container body2:grid-cols-2 behruz:max-w-[1300px] body2:max-w-[800px] body:max-w-[400px] body:grid-cols-1 bekor m-auto gap-y-[50px] grid grid-cols-3">
           {InfoPage?.Info && InfoPage?.Info.map((item, id)=>(
           <article key={id} className="cursor-pointer w-[350px] h-[550px] border-[2px] rounded-[20px] flex flex-col items-center">

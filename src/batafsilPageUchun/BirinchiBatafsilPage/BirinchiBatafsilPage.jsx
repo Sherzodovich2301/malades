@@ -7,7 +7,7 @@ export default function BirinchiBatafsilPage() {
           INFINIT  - Qulay va Xavfsiz
         </h3>
         <p className="text-white text-[20px] leading-[40px]">
-          Bizning bankimizdan foydalanar ekansiz biz bundan hursandmiz va biz sizga bosh <br /> sahifamizda aytib o'tganimizday siz bu saytdan pullaringizni qulay saqlashingiz va foizsiz <br /> kreditlar, valyuta kurslari va horijiy sanksiyalardan foydalanishingiz mumkin bu <br /> sahifada siz o'zingizga kerakli bo'lgan ma'lumotlarni topish <br /> imkoniga ega bo'lasiz
+          Bizning bankimizdan foydalanar ekansiz biz bundan hursandmiz va biz sizga bosh <br /> sahifamizda aytib o&apos;tganimizday siz bu saytdan pullaringizni qulay saqlashingiz va foizsiz <br /> kreditlar, valyuta kurslari va horijiy sanksiyalardan foydalanishingiz mumkin bu <br /> sahifada siz o&apos;zingizga kerakli bo&apos;lgan ma&apos;lumotlarni topish <br /> imkoniga ega bo&apos;lasiz
         </p>
       </div>
     </div>
