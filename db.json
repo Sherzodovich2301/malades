@@ -1,0 +1,327 @@
+{
+    "IkkinchiPage": [
+        {
+            "id": 1,
+            "title": "Our Team",
+            "title2": "bu sahifada siz bizning jamoamiz va ularning a'zolari bilan tanishishingiz mumkin bo'ladi",
+            "image": "/src/Components/Img/pexels-fauxels-3184423.jpg",
+            "Team1": [
+                {
+                    "id": 1,
+                    "image1": "/src/Components/Img/zafaraka.jpg",
+                    "title1": "Zafar Uralov - Iqtidor IT Academy direktori IT sohasining rivojlanishiga katta hissa qo‘shadigan va yosh avlodga zamonaviy bilim berishga intiladigan yetakchi hisoblanadi."
+                },
+                {
+                    "id": 2,
+                    "image1": "/src/Components/Img/Abdufattox aka.jpg",
+                    "title1": "Abdufattox Juraev - SMM mentori – biznes yoki shaxslar uchun samarali ijtimoiy media strategiyalarini yaratishga yordam beradigan mutaxassis bo‘lib, ularning onlayn ishtirokini"
+                },
+                {
+                    "id": 3,
+                    "image1": "/src/Components/Img/bekmuhammadaka.jpg",
+                    "title1": "Bekmuhammad Mamadiyev - Tajribali back-end dasturchi va ilhomlantiruvchi mentor, server texnologiyalari va tizimlar bo‘yicha chuqur bilim va tajribaga ega bo‘lib, talabalar va hamkasblari tomonidan hurmat qilinadi."
+                },
+                {
+                    "id": 4,
+                    "image1": "/src/Components/Img/javohiraka.jpg",
+                    "title1": "Javohir Yusupov - Tajribali front-end dasturchi va ilhomlantiruvchi mentor, zamonaviy veb-texnologiyalar bo‘yicha chuqur bilim va tajribaga ega bo‘lib, talabalar va hamkasblari orasida hurmatga sazovor."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Exchange Rates",
+            "title2": "valyuta kurslari haqidagi ma'lumotlar sahifasi",
+            "image": "/src/Components/Img/bitcoin3.jpg",
+            "Team3": [
+                {
+                    "title1": "This Page Is Not Available Yet"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "National Banks",
+            "title2": "milliy banklarimiz va ularga tegishli bolgan sahifa",
+            "image": "/src/Components/Img/bank3.jpg",
+            "Team2": [
+                
+                {
+                    "image1": "/src/Components/Img/nbu logo.webp",
+                    "title1": "NBU",
+                    "title2": "O‘zbekiston Respublikasi Tashqi iqtisodiy faoliyat milliy banki mamlakatimiz birinchi Prezidenti I.Karimovning 1991 yil sentabrdagi Farmoni bilan tashkil etilgan.O‘zbеkiston Rеspublikasi Prеzidеntining “O‘zbеkiston Rеspublikasi Tashqi iqtisodiy faoliyat milliy banki” unitar deb elon qildi."
+                },
+                {
+                    "image1": "/src/Components/Img/sqb logo.jpg",
+                    "title1": "SQB",
+                    "title2": "1955-yilda kapital qurilishni moliyalashtirishning yangi qoidalari va qurilish b oʻyicha pudrat shartnomalarining qoidalari tasdiqlandi. Bank ishlab chiqarish quvvatlarini va asosiy fondlarni ishga tushirish boʻyicha davlat rejalarining bajarilishi ustidan nazoratni kuchaytiradi."
+                },
+                {
+                    "image1": "/src/Components/Img/ipoteka logo.jpg",
+                    "title1": "OTP",
+                    "title2": "Ipoteka bank – Oʻzbekistondagi xorijiy investor ulushi ishtirokidagi universal bankdir. Ipoteka-bank Oʻzbekiston bank tizimida jami aktivlari boʻyicha 7.1 foiz ulush bilan 5-pozitsiyada joylashgan.Ipoteka-bank ipoteka kreditlari berish va uy-joy qurilishini moliyalash boʻyicha tajribaga ega."
+                },
+                {
+                    "image1": "/src/Components/Img/hamkorlogo.webp",
+                    "title1": "Hamkor Bank",
+                    "title2": "Hamkorbank ATB – xorijiy kapital ishtirokidagi aksiyadorlik-tijorat banki Hamkorbank OAJ boʻlib, Oʻzbekistondagi tijorat bankidir. Bank Oʻzbekiston Markaziy banki tomonidan 1991-yil 31-avgustda berilgan 64-sonli litsenziyaga ega."
+                },
+                {
+                    "image1": "/src/Components/Img/turon.webp",
+                    "title1": "Turon Bank",
+                    "title2": "Turonbank - Oʻzbekistondagi yirik aksiyadorlik-tijorat banki. 1990-yil 6-oktabrda aksiyadorlik tijorat birlashtiruv banki tarzida tashkil etilgan. 1993-yildan ochiq aksiyadorlik jamiyati. Boshqaruvi Toshkent shahrida, Qishloq va suv xoʻjaligi vazirligi tashkilotlari, kichik va oʻrta biznes subʼyektlarga xizmatlari koʻrsatadi"
+                },
+                {
+                    "image1": "/src/Components/Img/anorbank.png",
+                    "title1": "Anor Bank",
+                    "title2": "ANOR BANK AJ - birinchimilliy tijorat raqamli bank. 2020 yil Sentyabr oyida tashkil etilgan Xizmatlar onlayn tarzda (veb-sayt, mobil ilova) taqdim etiladi Anorbank ilovasi Android va iOS platformada joylashgan Yarim milliondanortiq odam Anorbank ilovasini yuklab oldi."
+                }
+            ]
+        }
+    ],
+    "Team": [
+        {
+            "id": 1,
+            "image1": "/src/Components/Img/zafaraka.jpg",
+            "title1": "Zafar Uralov - Iqtidor IT Academy direktori IT sohasining rivojlanishiga katta hissa qo‘shadigan va yosh avlodga zamonaviy bilim berishga intiladigan yetakchi hisoblanadi."
+        },
+        {
+            "id": 2,
+            "image1": "/src/Components/Img/Abdufattox aka.jpg",
+            "title1": "Abdufattox Juraev - SMM mentori – biznes yoki shaxslar uchun samarali ijtimoiy media strategiyalarini yaratishga yordam beradigan mutaxassis bo‘lib, ularning onlayn ishtirokini"
+        },
+        {
+            "id": 3,
+            "image1": "/src/Components/Img/bekmuhammadaka.jpg",
+            "title1": "Bekmuhammad Mamadiyev - Tajribali back-end dasturchi va ilhomlantiruvchi mentor, server texnologiyalari va tizimlar bo‘yicha chuqur bilim va tajribaga ega bo‘lib, talabalar va hamkasblari tomonidan hurmat qilinadi."
+        },
+        {
+            "id": 4,
+            "image1": "/src/Components/Img/javohiraka.jpg",
+            "title1": "Javohir Yusupov - Tajribali front-end dasturchi va ilhomlantiruvchi mentor, zamonaviy veb-texnologiyalar bo‘yicha chuqur bilim va tajribaga ega bo‘lib, talabalar va hamkasblari orasida hurmatga sazovor."
+        }
+    ],
+    "kelajakHamkor": [
+        {
+            "img": "./src/Components/Img/amazon.jpg"
+        },
+        {
+            "img": "./src/Components/Img/apple.webp"
+        },
+        {
+            "img": "./src/Components/Img/google.jpg"
+        },
+        {
+            "img": "./src/Components/Img/twitter.webp"
+        },
+        {
+            "img": "./src/Components/Img/facebook.webp"
+        }
+    ],
+    "BolajakJamoa": [
+        {
+            "image2": "./src/Components/Img/shamsiddin bro1.jpg",
+            "title1": "Shamsiddin Ro'ziboyev",
+            "title2": "Iqtidor academy ning front-end kursida o'qib hozirda horijiy kampaniya ya'ni 'Amazon' bilan birgalikda ish yuritmoqda"
+        },
+        {
+            "image2": "./src/Components/Img/shohjahon bro1.jpg",
+            "title1": "Shohjahon Amonov",
+            "title2": "Ijodkorlik va texnologiyaga ishtiyoqi baland bo‘lgan iqtidorli o‘yin dasturchisi. Va eksklyusiv o'yinlar yaratuvchisi"
+        },
+        {
+            "image2": "./src/Components/Img/muulon bro1.jpg",
+            "title1": "Mavlonbek Ibragimov",
+            "title2": "Iqtidor academy ning front-end kursida tahsil olib hozirgi kunda UIC group dasturchilari bilan ishlamoqda"
+        },
+        {
+            "image2": "./src/Components/Img/aziz bro1.jpg",
+            "title1": "Azizbek Qayumov",
+            "title2": "Zamonaviy veb-texnologiyalarda chuqur bilimga ega bo‘lgan, vizual jihatdan jozibador va yuqori funksionallikka ega foydalanuvchi"
+        }
+    ],
+    "UchinchiPage": [
+        {
+            "frame": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3095.5115222276204!2d66.89108047578122!3d39.117589933682176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3f4cbb686357ed39%3A0xfd13d5677a926088!2sIqtidor%20IT%20Academy!5e0!3m2!1sen!2s!4v1740497096531!5m2!1sen!2s"
+        }
+    ],
+    "TortinchiPage": [
+        {
+            "id": 1,
+            "image1": "/src/Components/Img/US png.png"
+        },
+        {
+            "id": 2,
+            "image1": "/src/Components/Img/Paylov PNG.png"
+        },
+        {
+            "id": 3,
+            "image1": "/src/Components/Img/imkon Png.png"
+        },
+        {
+            "id": 4,
+            "image1": "/src/Components/Img/SQB PNG.png"
+        },
+        {
+            "id": 5,
+            "image1": "/src/Components/Img/Asakabank PNG.svg"
+        },
+        {
+            "id": 6,
+            "image1": "/src/Components/Img/commeta PNG.svg"
+        },
+        {
+            "id": 7,
+            "image1": "/src/Components/Img/IT_park PNG.svg"
+        },
+        {
+            "id": 8,
+            "image1": "/src/Components/Img/PM.svg"
+        },
+        {
+            "id": 9,
+            "image1": "/src/Components/Img/SELLO PNG.svg"
+        },
+        {
+            "id": 10,
+            "image1": "/src/Components/Img/Uzcard PNG.svg"
+        }
+    ],
+    "BeshinchiPage": [
+        {
+            "title": "American Express Platinum Card",
+            "Ptitle": "American Express Company yoki Amex — toʻlov kartalariga  ixtisoslashgan Amerika bank xolding kompaniyasi va koʻp millatli moliyaviy xizmatlar korporatsiyasi. Uning shtab-kvartirasi Quyi Manxettenning Battery Park Siti mahallasida American Express minorasi sifatida ham tanilgan Vesey ko'chasi 200-da joylashgan. Amex Xitoy UnionPay, Visa va Mastercarddan keyin xaridlar hajmi bo'yicha dunyo bo'ylab to'rtinchi yirik karta tarmog'idir.",
+            "image": "/src/Components/Img/american-express-platinum-charge-card-india.jpg"
+        }
+    ],
+    "YettinchiPage": [
+        {
+            "id": 1,
+            "image": "/src/Components/Img/1-bank.jpg",
+            "title": "1 – Industrial & Commercial Bank of China",
+            "Pititle": "O‘zbekchasiga «Xitoy sanoat-tijorat banki» nomli bu  ulkan moliya muassasasi o‘zining 4,009 trln dollarlik aktivlari bilan dunyo yetakchisi hisoblanadi. 1984 yilda davlat tomonidan asos solingan bu bank 2006 yilda ilk bor o‘z aksiyalarini sotuvga chiqargan va  48,4 mlrd aksiyalarini (umumiy 18 foiz) sotish ortidan 20 mlrd dollar ishlashga muvaffaq bo‘lgan"
+        },
+        {
+            "id": 2,
+            "image": "/src/Components/Img/1-bank.jpg",
+            "title": "2 – Industrial & Commercial Bank of China",
+            "Pititle": "O‘zbekchasiga «Xitoy sanoat-tijorat banki» nomli bu  ulkan moliya muassasasi o‘zining 4,009 trln dollarlik aktivlari bilan dunyo yetakchisi hisoblanadi. 1984 yilda davlat tomonidan asos solingan bu bank 2006 yilda ilk bor o‘z aksiyalarini sotuvga chiqargan va  48,4 mlrd aksiyalarini (umumiy 18 foiz) sotish ortidan 20 mlrd dollar ishlashga muvaffaq bo‘lgan"
+        },
+        {
+            "id": 3,
+            "image": "/src/Components/Img/3-bank.jpg",
+            "title": "3 – Industrial & Commercial Bank of China",
+            "Pititle": "O‘zbekchasiga «Xitoy sanoat-tijorat banki» nomli bu  ulkan moliya muassasasi o‘zining 4,009 trln dollarlik aktivlari bilan dunyo yetakchisi hisoblanadi. 1984 yilda davlat tomonidan asos solingan bu bank 2006 yilda ilk bor o‘z aksiyalarini sotuvga chiqargan va  48,4 mlrd aksiyalarini (umumiy 18 foiz) sotish ortidan 20 mlrd dollar ishlashga muvaffaq bo‘lgan"
+        },
+        {
+            "id": 4,
+            "image": "/src/Components/Img/4-bank.jpg",
+            "title": "4 – Industrial & Commercial Bank of China",
+            "Pititle": "O‘zbekchasiga «Xitoy sanoat-tijorat banki» nomli bu  ulkan moliya muassasasi o‘zining 4,009 trln dollarlik aktivlari bilan dunyo yetakchisi hisoblanadi. 1984 yilda davlat tomonidan asos solingan bu bank 2006 yilda ilk bor o‘z aksiyalarini sotuvga chiqargan va  48,4 mlrd aksiyalarini (umumiy 18 foiz) sotish ortidan 20 mlrd dollar ishlashga muvaffaq bo‘lgan"
+        },
+        {
+            "id": 5,
+            "image": "/src/Components/Img/5-bank.jpg",
+            "title": "5 – Industrial & Commercial Bank of China",
+            "Pititle": "O‘zbekchasiga «Xitoy sanoat-tijorat banki» nomli bu  ulkan moliya muassasasi o‘zining 4,009 trln dollarlik aktivlari bilan dunyo yetakchisi hisoblanadi. 1984 yilda davlat tomonidan asos solingan bu bank 2006 yilda ilk bor o‘z aksiyalarini sotuvga chiqargan va  48,4 mlrd aksiyalarini (umumiy 18 foiz) sotish ortidan 20 mlrd dollar ishlashga muvaffaq bo‘lgan"
+        }
+    ],
+    "batafsil": [
+        {
+            "id": 1,
+            "img": "/src/Components/Img/tengeBank.jpg",
+            "title1": "Buxgalteriya hisobini yuritish bo’limi katta menejeri"
+        },
+        {
+            "id": 2,
+            "img": "/src/Components/Img/UniversalB.jpg",
+            "title1": "Java dastur ishlab chiquvchi"
+        },
+        {
+            "id": 3,
+            "img": "/src/Components/Img/hamkorB.jpg",
+            "title1": "Huquqshunos lavozimi uchun"
+        },
+        {
+            "id": 4,
+            "img": "/src/Components/Img/ip bank.jpeg",
+            "title1": "Loyihalarni boshqarish boshqarmasi boshlig'i"
+        },
+        {
+            "id": 5,
+            "img": "/src/Components/Img/anor.jpg",
+            "title1": "Masofaviy qarz undurish bo'yicha mutaxassis"
+        },
+        {
+            "id": 6,
+            "img": "/src/Components/Img/aloqaB.webp",
+            "title1": "Kontant markazi operatori"
+        }
+    ],
+    "aboutPage2": [
+        {
+            "id": 1,
+            "image1": "/src/Components/Img/Frame 9.png"
+        },
+        {
+            "id": 2,
+            "image1": "/src/Components/Img/Frame 10.png"
+        },
+        {
+            "id": 3,
+            "image1": "/src/Components/Img/Frame 10 (6).png"
+        },
+        {
+            "id": 4,
+            "image1": "/src/Components/Img/Frame 10 (5).png"
+        },
+        {
+            "id": 5,
+            "image1": "/src/Components/Img/Frame 10 (4).png"
+        },
+        {
+            "id": 6,
+            "image1": "/src/Components/Img/Frame 10 (3).png"
+        },
+        {
+            "id": 7,
+            "image1": "/src/Components/Img/Frame 10 (2).png"
+        },
+        {
+            "id": 8,
+            "image1": "/src/Components/Img/Frame 10 (1).png"
+        }
+    ],
+    "Info": [
+        {
+            "image1": "/src/Components/Img/nbu logo.webp",
+            "title1": "NBU",
+            "title2": "O‘zbekiston Respublikasi Tashqi iqtisodiy faoliyat milliy banki mamlakatimiz birinchi Prezidenti I.Karimovning 1991 yil sentabrdagi Farmoni bilan tashkil etilgan.O‘zbеkiston Rеspublikasi Prеzidеntining “O‘zbеkiston Rеspublikasi Tashqi iqtisodiy faoliyat milliy banki” unitar deb elon qildi."
+        },
+        {
+            "image1": "/src/Components/Img/sqb logo.jpg",
+            "title1": "SQB",
+            "title2": "1955-yilda kapital qurilishni moliyalashtirishning yangi qoidalari va qurilish b oʻyicha pudrat shartnomalarining qoidalari tasdiqlandi. Bank ishlab chiqarish quvvatlarini va asosiy fondlarni ishga tushirish boʻyicha davlat rejalarining bajarilishi ustidan nazoratni kuchaytiradi."
+        },
+        {
+            "image1": "/src/Components/Img/ipoteka logo.jpg",
+            "title1": "OTP",
+            "title2": "Ipoteka bank – Oʻzbekistondagi xorijiy investor ulushi ishtirokidagi universal bankdir. Ipoteka-bank Oʻzbekiston bank tizimida jami aktivlari boʻyicha 7.1 foiz ulush bilan 5-pozitsiyada joylashgan.Ipoteka-bank ipoteka kreditlari berish va uy-joy qurilishini moliyalash boʻyicha tajribaga ega."
+        },
+        {
+            "image1": "/src/Components/Img/hamkorlogo.webp",
+            "title1": "Hamkor Bank",
+            "title2": "Hamkorbank ATB – xorijiy kapital ishtirokidagi aksiyadorlik-tijorat banki Hamkorbank OAJ boʻlib, Oʻzbekistondagi tijorat bankidir. Bank Oʻzbekiston Markaziy banki tomonidan 1991-yil 31-avgustda berilgan 64-sonli litsenziyaga ega."
+        },
+        {
+            "image1": "/src/Components/Img/turon.webp",
+            "title1": "Turon Bank",
+            "title2": "Turonbank - Oʻzbekistondagi yirik aksiyadorlik-tijorat banki. 1990-yil 6-oktabrda aksiyadorlik tijorat birlashtiruv banki tarzida tashkil etilgan. 1993-yildan ochiq aksiyadorlik jamiyati. Boshqaruvi Toshkent shahrida, Qishloq va suv xoʻjaligi vazirligi tashkilotlari, kichik va oʻrta biznes subʼyektlarga xizmatlari koʻrsatadi"
+        },
+        {
+            "image1": "/src/Components/Img/anorbank.png",
+            "title1": "Anor Bank",
+            "title2": "ANOR BANK AJ - birinchimilliy tijorat raqamli bank. 2020 yil Sentyabr oyida tashkil etilgan Xizmatlar onlayn tarzda (veb-sayt, mobil ilova) taqdim etiladi Anorbank ilovasi Android va iOS platformada joylashgan Yarim milliondanortiq odam Anorbank ilovasini yuklab oldi."
+        }
+    ]
+}
